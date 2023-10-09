@@ -1,19 +1,4 @@
-/*
-Concepts covered in my project :
 
-1.Constructor
-2.Destructor
-3.Friend class
-4.Friend function
-5.Pure virtual function
-6.Abstruct Class
-7.virtual class
-8.Inheritance
-9.File management
-10.STL (Vector , Map ,List )
-11.Class Templete
-
-*/
 #include <iostream>
 #include <fstream>
 #include <map>
